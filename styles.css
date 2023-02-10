@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box; 
+    margin-left: 20px;  
+}
+
+header{
+    
+    font-size: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 20px;
+    color: white;
+    background-color: rgb(73, 73, 243);
+    margin: 5px;
+    font-weight: bold;
+    position: relative;
+    
+}
+
+.cambioverde{
+    background-color: rgb(34, 119, 31);
+}
+
+
+.portada{
+    height: 500px;
+    width: 1515px;
+    
+    
+}
+
+#Titulo{
+    text-align: center;
+    border: 2px solid black;
+    margin-top: -5px;
+    position: relative;
+}
+
+
